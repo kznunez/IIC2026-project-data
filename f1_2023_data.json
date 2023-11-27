@@ -1,0 +1,1347 @@
+[
+    {"Bahrain GP": 
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 43,
+                "pts_accumulated": 43,
+                "championship_place": "none",
+                "Max_Verstappen_position": 1,
+                "Max_Verstappen_points": 25,
+                "Max_Verstappen_points_accumulated": 25,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 2,
+                "Sergio_Perez_points": 18,
+                "Sergio_Perez_points_accumulated": 18,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 12,
+                "pts_accumulated": 12,
+                "championship_place": "none",
+                "Charles_Leclerc_position": "DNF",
+                "Charles_Leclerc_points": 0,
+                "Charles_Leclerc_points_accumulated": 0,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 4,
+                "Carlos_Sainz_points": 12,
+                "Carlos_Sainz_points_accumulated": 12,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 16,
+                "pts_accumulated": 16,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 5,
+                "Lewis_Hamilton_points": 10,
+                "Lewis_Hamilton_points_accumulated": 10,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": 7,
+                "George_Russell_points": 6,
+                "George_Russell_points_accumulated": 6,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 23,
+                "pts_accumulated": 23,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 3,
+                "Fernando_Alonso_points": 15,
+                "Fernando_Alonso_points_accumulated": 15,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": 6,
+                "Lance_Stroll_points": 8,
+                "Lance_Stroll_points_accumulated": 8,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 4,
+                "pts_accumulated": 4,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 8,
+                "Valtteri_Bottas_points": 4,
+                "Valtteri_Bottas_points_accumulated": 4,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 16,
+                "Zhou_Guanyu_points": 0,
+                "Zhou_Guanyu_points_accumulated": 0,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 2,
+                "pts_accumulated": 2,
+                "championship_place": "none",
+                "Esteban_Ocon_position": "DNF",
+                "Esteban_Ocon_points": 0,
+                "Esteban_Ocon_points_accumulated": 0,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 9,
+                "Pierre_Gasly_points": 2,
+                "Pierre_Gasly_points_accumulated": 2,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 1,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Alexander_Albon_position": 10,
+                "Alexander_Albon_points": 1,
+                "Alexander_Albon_points_accumulated": 1,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 12,
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 0,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 11,
+                "Yuki_Tsunoda_points": 0,
+                "Yuki_Tsunoda_points_accumulated": 0,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 14,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 0,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 13,
+                "Kevin_Magnussen_points": 0,
+                "Kevin_Magnussen_points_accumulated": 0,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 15,
+                "Nico_Hulkenberg_points": 0,
+                "Nico_Hulkenberg_points_accumulated": 0,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 0,
+                "championship_place": "none",
+                "Lando_Norris_position": 17,
+                "Lando_Norris_points": 0,
+                "Lando_Norris_points_accumulated": 0,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": "DNF",
+                "Oscar_Piastri_points": 0,
+                "Oscar_Piastri_points_accumulated": 0,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Saudi Arabian GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 44,
+                "pts_accumulated": 87,
+                "championship_place": "none",
+                "Max_Verstappen_position": 2,
+                "Max_Verstappen_points": 19,
+                "Max_Verstappen_points_accumulated": 44,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 1,
+                "Sergio_Perez_points": 25,
+                "Sergio_Perez_points_accumulated": 43,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 14,
+                "pts_accumulated": 26,
+                "championship_place": "none",
+                "Charles_Leclerc_position": 7,
+                "Charles_Leclerc_points": 6,
+                "Charles_Leclerc_points_accumulated": 6,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 6,
+                "Carlos_Sainz_points": 8,
+                "Carlos_Sainz_points_accumulated": 20,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 22,
+                "pts_accumulated": 38,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 5,
+                "Lewis_Hamilton_points": 10,
+                "Lewis_Hamilton_points_accumulated": 20,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": 4,
+                "George_Russell_points": 12,
+                "George_Russell_points_accumulated": 18,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 15,
+                "pts_accumulated": 38,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 3,
+                "Fernando_Alonso_points": 15,
+                "Fernando_Alonso_points_accumulated": 30,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": "DNF",
+                "Lance_Stroll_points": 0,
+                "Lance_Stroll_points_accumulated": 8,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 4,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 18,
+                "Valtteri_Bottas_points": 0,
+                "Valtteri_Bottas_points_accumulated": 4,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 13,
+                "Zhou_Guanyu_points": 0,
+                "Zhou_Guanyu_points_accumulated": 0,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 6,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 8,
+                "Esteban_Ocon_points": 4,
+                "Esteban_Ocon_points_accumulated": 4,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 9,
+                "Pierre_Gasly_points": 2,
+                "Pierre_Gasly_points_accumulated": 4,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Alexander_Albon_position": "DNF",
+                "Alexander_Albon_points": 0,
+                "Alexander_Albon_points_accumulated": 1,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 16,
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 0,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 11,
+                "Yuki_Tsunoda_points": 0,
+                "Yuki_Tsunoda_points_accumulated": 0,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 14,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 1,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 10,
+                "Kevin_Magnussen_points": 1,
+                "Kevin_Magnussen_points_accumulated": 1,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 12,
+                "Nico_Hulkenberg_points": 0,
+                "Nico_Hulkenberg_points_accumulated": 0,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 0,
+                "championship_place": "none",
+                "Lando_Norris_position": 17,
+                "Lando_Norris_points": 0,
+                "Lando_Norris_points_accumulated": 0,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 15,
+                "Oscar_Piastri_points": 0,
+                "Oscar_Piastri_points_accumulated": 0,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Australian GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 36,
+                "pts_accumulated": 123,
+                "championship_place": "none",
+                "Max_Verstappen_position": 1,
+                "Max_Verstappen_points": 25,
+                "Max_Verstappen_points_accumulated": 69,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 5,
+                "Sergio_Perez_points": 11,
+                "Sergio_Perez_points_accumulated": 54,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 26,
+                "championship_place": "none",
+                "Charles_Leclerc_position": "DNF",
+                "Charles_Leclerc_points": 0,
+                "Charles_Leclerc_points_accumulated": 6,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 12,
+                "Carlos_Sainz_points": 0,
+                "Carlos_Sainz_points_accumulated": 20,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 18,
+                "pts_accumulated": 56,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 2,
+                "Lewis_Hamilton_points": 18,
+                "Lewis_Hamilton_points_accumulated": 38,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": "DNF",
+                "George_Russell_points": 0,
+                "George_Russell_points_accumulated": 18,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 27,
+                "pts_accumulated": 65,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 3,
+                "Fernando_Alonso_points": 15,
+                "Fernando_Alonso_points_accumulated": 45,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": 4,
+                "Lance_Stroll_points": 12,
+                "Lance_Stroll_points_accumulated": 20,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 2,
+                "pts_accumulated": 6,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 11,
+                "Valtteri_Bottas_points": 0,
+                "Valtteri_Bottas_points_accumulated": 4,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 9,
+                "Zhou_Guanyu_points": 2,
+                "Zhou_Guanyu_points_accumulated": 2,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 14,
+                "Esteban_Ocon_points": 0,
+                "Esteban_Ocon_points_accumulated": 4,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 13,
+                "Pierre_Gasly_points": 0,
+                "Pierre_Gasly_points_accumulated": 4,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Alexander_Albon_position": "DNF",
+                "Alexander_Albon_points": 0,
+                "Alexander_Albon_points_accumulated": 1,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 16,
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 1,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 10,
+                "Yuki_Tsunoda_points": 1,
+                "Yuki_Tsunoda_points_accumulated": 1,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 15,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 6,
+                "pts_accumulated": 7,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 17,
+                "Kevin_Magnussen_points": 0,
+                "Kevin_Magnussen_points_accumulated": 1,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 7,
+                "Nico_Hulkenberg_points": 6,
+                "Nico_Hulkenberg_points_accumulated": 6,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 12,
+                "pts_accumulated": 12,
+                "championship_place": "none",
+                "Lando_Norris_position": 6,
+                "Lando_Norris_points": 8,
+                "Lando_Norris_points_accumulated": 8,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 8,
+                "Oscar_Piastri_points": 4,
+                "Oscar_Piastri_points_accumulated": 4,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Azerbaijan GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 57,
+                "pts_accumulated": 180,
+                "championship_place": "none",
+                "Max_Verstappen_position": 2,
+                "Max_Verstappen_points": 24,
+                "Max_Verstappen_position_sprint": 3,
+                "Max_Verstappen_points_accumulated": 93,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 1,
+                "Sergio_Perez_points": 33,
+                "Sergio_Perez_position_sprint": 1,
+                "Sergio_Perez_points_accumulated": 87,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 36,
+                "pts_accumulated": 62,
+                "championship_place": "none",
+                "Charles_Leclerc_position": 3,
+                "Charles_Leclerc_points": 22,
+                "Charles_Leclerc_position_sprint": 2,
+                "Charles_Leclerc_points_accumulated": 28,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 5,
+                "Carlos_Sainz_points": 14,
+                "Carlos_Sainz_position_sprint": 5,
+                "Carlos_Sainz_points_accumulated": 34,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 20,
+                "pts_accumulated": 76,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 7,
+                "Lewis_Hamilton_position_sprint": 6,
+                "Lewis_Hamilton_points": 10,
+                "Lewis_Hamilton_points_accumulated": 48,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": 8,
+                "George_Russell_position_sprint": 4,
+                "George_Russell_points": 10,
+                "George_Russell_points_accumulated": 28,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 22,
+                "pts_accumulated": 87,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 4,
+                "Fernando_Alonso_position_sprint": 6,
+                "Fernando_Alonso_points": 15,
+                "Fernando_Alonso_points_accumulated": 60,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": 7,
+                "Lance_Stroll_position_sprint": 8,
+                "Lance_Stroll_points": 7,
+                "Lance_Stroll_points_accumulated": 27,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 6,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 18,
+                "Valtteri_Bottas_position_sprint": 16,
+                "Valtteri_Bottas_points": 0,
+                "Valtteri_Bottas_points_accumulated": 4,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": "DNF",
+                "Zhou_Guanyu_position_sprint": 12,
+                "Zhou_Guanyu_points": 0,
+                "Zhou_Guanyu_points_accumulated": 2,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 15,
+                "Esteban_Ocon_position_sprint": 18,
+                "Esteban_Ocon_points": 0,
+                "Esteban_Ocon_points_accumulated": 4,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 14,
+                "Pierre_Gasly_position_sprint": 13,
+                "Pierre_Gasly_points": 0,
+                "Pierre_Gasly_points_accumulated": 4,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Alexander_Albon_position": 12,
+                "Alexander_Albon_position_sprint": 9,
+                "Alexander_Albon_points": 0,
+                "Alexander_Albon_points_accumulated": 1,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 16,
+                "Logan_Sargeant_position_sprint": "DNS",
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 1,
+                "pts_accumulated": 2,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 10,
+                "Yuki_Tsunoda_position_sprint": "DNF",
+                "Yuki_Tsunoda_points": 1,
+                "Yuki_Tsunoda_points_accumulated": 2,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": "DNF",
+                "Nyck_de_Vries_position_sprint": 14,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 7,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 13,
+                "Kevin_Magnussen_position_sprint": 11,
+                "Kevin_Magnussen_points": 0,
+                "Kevin_Magnussen_points_accumulated": 1,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 17,
+                "Nico_Hulkenberg_position_sprint": 15,
+                "Nico_Hulkenberg_points": 0,
+                "Nico_Hulkenberg_points_accumulated": 6,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 2,
+                "pts_accumulated": 14,
+                "championship_place": "none",
+                "Lando_Norris_position": 9,
+                "Lando_Norris_position_sprint": 17,
+                "Lando_Norris_points": 2,
+                "Lando_Norris_points_accumulated": 10,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 11,
+                "Oscar_Piastri_position_sprint": 10,
+                "Oscar_Piastri_points": 0,
+                "Oscar_Piastri_points_accumulated": 4,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Miami GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 44,
+                "pts_accumulated": 224,
+                "championship_place": "none",
+                "Max_Verstappen_position": 1,
+                "Max_Verstappen_points": 26,
+                "Max_Verstappen_points_accumulated": 119,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 2,
+                "Sergio_Perez_points": 18,
+                "Sergio_Perez_points_accumulated": 105,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 16,
+                "pts_accumulated": 78,
+                "championship_place": "none",
+                "Charles_Leclerc_position": 7,
+                "Charles_Leclerc_points": 6,
+                "Charles_Leclerc_points_accumulated": 34,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 5,
+                "Carlos_Sainz_points": 10,
+                "Carlos_Sainz_points_accumulated": 44,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 20,
+                "pts_accumulated": 96,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 6,
+                "Lewis_Hamilton_points": 8,
+                "Lewis_Hamilton_points_accumulated": 56,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": 4,
+                "George_Russell_points": 12,
+                "George_Russell_points_accumulated": 40,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 15,
+                "pts_accumulated": 102,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 3,
+                "Fernando_Alonso_points": 15,
+                "Fernando_Alonso_points_accumulated": 75,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": 12,
+                "Lance_Stroll_points": 0,
+                "Lance_Stroll_points_accumulated": 27,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 6,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 13,
+                "Valtteri_Bottas_points": 0,
+                "Valtteri_Bottas_points_accumulated": 4,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 16,
+                "Zhou_Guanyu_points": 0,
+                "Zhou_Guanyu_points_accumulated": 2,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 6,
+                "pts_accumulated": 14,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 9,
+                "Esteban_Ocon_points": 2,
+                "Esteban_Ocon_points_accumulated": 6,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 8,
+                "Pierre_Gasly_points": 4,
+                "Pierre_Gasly_points_accumulated": 8,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Alexander_Albon_position": 14,
+                "Alexander_Albon_points": 0,
+                "Alexander_Albon_points_accumulated": 1,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 20,
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 2,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 11,
+                "Yuki_Tsunoda_points": 0,
+                "Yuki_Tsunoda_points_accumulated": 2,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 18,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 1,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 10,
+                "Kevin_Magnussen_points": 1,
+                "Kevin_Magnussen_points_accumulated": 2,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 15,
+                "Nico_Hulkenberg_points": 0,
+                "Nico_Hulkenberg_points_accumulated": 6,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 14,
+                "championship_place": "none",
+                "Lando_Norris_position": 17,
+                "Lando_Norris_points": 0,
+                "Lando_Norris_points_accumulated": 10,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 19,
+                "Oscar_Piastri_points": 0,
+                "Oscar_Piastri_points_accumulated": 4,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Monaco GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 25,
+                "pts_accumulated": 249,
+                "championship_place": "none",
+                "Max_Verstappen_position": 1,
+                "Max_Verstappen_points": 25,
+                "Max_Verstappen_points_accumulated": 144,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 16,
+                "Sergio_Perez_points": 0,
+                "Sergio_Perez_points_accumulated": 105,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 12,
+                "pts_accumulated": 90,
+                "championship_place": "none",
+                "Charles_Leclerc_position": 6,
+                "Charles_Leclerc_points": 8,
+                "Charles_Leclerc_points_accumulated": 42,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 8,
+                "Carlos_Sainz_points": 4,
+                "Carlos_Sainz_points_accumulated": 48,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 23,
+                "pts_accumulated": 119,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 4,
+                "Lewis_Hamilton_points": 13,
+                "Lewis_Hamilton_points_accumulated": 69,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": 5,
+                "George_Russell_points": 10,
+                "George_Russell_points_accumulated": 50,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 18,
+                "pts_accumulated": 120,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 2,
+                "Fernando_Alonso_points": 18,
+                "Fernando_Alonso_points_accumulated": 93,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": "DNF",
+                "Lance_Stroll_points": 0,
+                "Lance_Stroll_points_accumulated": 27,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 6,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 11,
+                "Valtteri_Bottas_points": 0,
+                "Valtteri_Bottas_points_accumulated": 4,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 13,
+                "Zhou_Guanyu_points": 0,
+                "Zhou_Guanyu_points_accumulated": 2,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 21,
+                "pts_accumulated": 35,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 3,
+                "Esteban_Ocon_points": 15,
+                "Esteban_Ocon_points_accumulated": 21,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 7,
+                "Pierre_Gasly_points": 6,
+                "Pierre_Gasly_points_accumulated": 14,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Alexander_Albon_position": 14,
+                "Alexander_Albon_points": 0,
+                "Alexander_Albon_points_accumulated": 1,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 18,
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 2,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 15,
+                "Yuki_Tsunoda_points": 0,
+                "Yuki_Tsunoda_points_accumulated": 2,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 12,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 19,
+                "Kevin_Magnussen_points": 0,
+                "Kevin_Magnussen_points_accumulated": 2,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 17,
+                "Nico_Hulkenberg_points": 0,
+                "Nico_Hulkenberg_points_accumulated": 6,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 3,
+                "pts_accumulated": 17,
+                "championship_place": "none",
+                "Lando_Norris_position": 9,
+                "Lando_Norris_points": 2,
+                "Lando_Norris_points_accumulated": 12,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 10,
+                "Oscar_Piastri_points": 1,
+                "Oscar_Piastri_points_accumulated": 5,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Spain GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 38,
+                "pts_accumulated": 287,
+                "championship_place": "none",
+                "Max_Verstappen_position": 1,
+                "Max_Verstappen_points": 26,
+                "Max_Verstappen_points_accumulated": 170,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 4,
+                "Sergio_Perez_points": 12,
+                "Sergio_Perez_points_accumulated": 117,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 10,
+                "pts_accumulated": 100,
+                "championship_place": "none",
+                "Charles_Leclerc_position": 11,
+                "Charles_Leclerc_points": 0,
+                "Charles_Leclerc_points_accumulated": 42,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 5,
+                "Carlos_Sainz_points": 10,
+                "Carlos_Sainz_points_accumulated": 58,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 33,
+                "pts_accumulated": 152,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 2,
+                "Lewis_Hamilton_points": 18,
+                "Lewis_Hamilton_points_accumulated": 87,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": 3,
+                "George_Russell_points": 15,
+                "George_Russell_points_accumulated": 65,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 14,
+                "pts_accumulated": 134,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 7,
+                "Fernando_Alonso_points": 6,
+                "Fernando_Alonso_points_accumulated": 99,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": 6,
+                "Lance_Stroll_points": 8,
+                "Lance_Stroll_points_accumulated": 35,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 2,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 19,
+                "Valtteri_Bottas_points": 0,
+                "Valtteri_Bottas_points_accumulated": 4,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 9,
+                "Zhou_Guanyu_points": 2,
+                "Zhou_Guanyu_points_accumulated": 4,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 5,
+                "pts_accumulated": 40,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 8,
+                "Esteban_Ocon_points": 4,
+                "Esteban_Ocon_points_accumulated": 25,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 10,
+                "Pierre_Gasly_points": 1,
+                "Pierre_Gasly_points_accumulated": 15,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 1,
+                "championship_place": "none",
+                "Alexander_Albon_position": 16,
+                "Alexander_Albon_points": 0,
+                "Alexander_Albon_points_accumulated": 1,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 20,
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 2,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 12,
+                "Yuki_Tsunoda_points": 0,
+                "Yuki_Tsunoda_points_accumulated": 2,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 14,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 18,
+                "Kevin_Magnussen_points": 0,
+                "Kevin_Magnussen_points_accumulated": 2,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 15,
+                "Nico_Hulkenberg_points": 0,
+                "Nico_Hulkenberg_points_accumulated": 6,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 17,
+                "championship_place": "none",
+                "Lando_Norris_position": 17,
+                "Lando_Norris_points": 0,
+                "Lando_Norris_points_accumulated": 12,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 13,
+                "Oscar_Piastri_points": 0,
+                "Oscar_Piastri_points_accumulated": 5,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Canada GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 34,
+                "pts_accumulated": 321,
+                "championship_place": "none",
+                "Max_Verstappen_position": 1,
+                "Max_Verstappen_points": 25,
+                "Max_Verstappen_points_accumulated": 195,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 6,
+                "Sergio_Perez_points": 9,
+                "Sergio_Perez_points_accumulated": 126,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 22,
+                "pts_accumulated": 122,
+                "championship_place": "none",
+                "Charles_Leclerc_position": 4,
+                "Charles_Leclerc_points": 12,
+                "Charles_Leclerc_points_accumulated": 54,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 5,
+                "Carlos_Sainz_points": 10,
+                "Carlos_Sainz_points_accumulated": 68,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 15,
+                "pts_accumulated": 167,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 3,
+                "Lewis_Hamilton_points": 15,
+                "Lewis_Hamilton_points_accumulated": 102,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": "DNF",
+                "George_Russell_points": 0,
+                "George_Russell_points_accumulated": 65,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 20,
+                "pts_accumulated": 154,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 2,
+                "Fernando_Alonso_points": 18,
+                "Fernando_Alonso_points_accumulated": 117,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": 9,
+                "Lance_Stroll_points": 2,
+                "Lance_Stroll_points_accumulated": 37,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 1,
+                "pts_accumulated": 9,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 10,
+                "Valtteri_Bottas_points": 1,
+                "Valtteri_Bottas_points_accumulated": 5,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 16,
+                "Zhou_Guanyu_points": 0,
+                "Zhou_Guanyu_points_accumulated": 4,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 4,
+                "pts_accumulated": 44,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 8,
+                "Esteban_Ocon_points": 4,
+                "Esteban_Ocon_points_accumulated": 29,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 12,
+                "Pierre_Gasly_points": 0,
+                "Pierre_Gasly_points_accumulated": 15,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 6,
+                "pts_accumulated": 7,
+                "championship_place": "none",
+                "Alexander_Albon_position": 7,
+                "Alexander_Albon_points": 6,
+                "Alexander_Albon_points_accumulated": 7,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": "DNF",
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 2,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 14,
+                "Yuki_Tsunoda_points": 0,
+                "Yuki_Tsunoda_points_accumulated": 2,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 18,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 8,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 17,
+                "Kevin_Magnussen_points": 0,
+                "Kevin_Magnussen_points_accumulated": 2,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": 18,
+                "Nico_Hulkenberg_points": 0,
+                "Nico_Hulkenberg_points_accumulated": 6,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 0,
+                "pts_accumulated": 17,
+                "championship_place": "none",
+                "Lando_Norris_position": 13,
+                "Lando_Norris_points": 0,
+                "Lando_Norris_points_accumulated": 12,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 11,
+                "Oscar_Piastri_points": 0,
+                "Oscar_Piastri_points_accumulated": 5,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    },
+    {"Austria GP":
+        {
+            "Red Bull Racing Honda RBPT": 
+            {
+                "pts_race": 56,
+                "pts_accumulated": 377,
+                "championship_place": "none",
+                "Max_Verstappen_position": 1,
+                "Max_Verstappen_position_sprint": 1,
+                "Max_Verstappen_points": 34,
+                "Max_Verstappen_points_accumulated": 229,
+                "Max_Verstappen_number": 1,
+                "Sergio_Perez_position": 3,
+                "Sergio_Perez_position_sprint": 2,
+                "Sergio_Perez_points": 22,
+                "Sergio_Perez_points_accumulated": 148,
+                "Sergio_Perez_number": 11
+            },
+            "Ferrari": 
+            {
+                "pts_race": 32,
+                "pts_accumulated": 154,
+                "championship_place": "none",
+                "Charles_Leclerc_position": 2,
+                "Charles_Leclerc_position_sprint": 12,
+                "Charles_Leclerc_points": 18,
+                "Charles_Leclerc_points_accumulated": 72,
+                "Charles_Leclerc_number": 16,
+                "Carlos_Sainz_position": 6,
+                "Carlos_Sainz_position_sprint": 3,
+                "Carlos_Sainz_points": 14,
+                "Carlos_Sainz_points_accumulated": 82,
+                "Carlos_Sainz_number": 55
+
+            },
+            "Mercedes": 
+            {
+                "pts_race": 11,
+                "pts_accumulated": 178,
+                "championship_place": "none",
+                "Lewis_Hamilton_position": 8,
+                "Lewis_Hamilton_position_sprint": 10,
+                "Lewis_Hamilton_points": 4,
+                "Lewis_Hamilton_points_accumulated": 106,
+                "Lewis_Hamilton_number": 44,
+                "George_Russell_position": 7,
+                "George_Russell_position_sprint": 8,
+                "George_Russell_points": 7,
+                "George_Russell_points_accumulated": 72,
+                "George_Russell_number": 63
+            },
+            "Aston Martin Aramco Mercedes": 
+            {
+                "pts_race": 21,
+                "pts_accumulated": 175,
+                "championship_place": "none",
+                "Fernando_Alonso_position": 5,
+                "Fernando_Alonso_position_sprint": 5,
+                "Fernando_Alonso_points": 14,
+                "Fernando_Alonso_points_accumulated": 131,
+                "Fernando_Alonso_number": 14,  
+                "Lance_Stroll_position": 9,
+                "Lance_Stroll_position_sprint": 4,
+                "Lance_Stroll_points": 7,
+                "Lance_Stroll_points_accumulated": 44,
+                "Lance_Stroll_number": 18
+            },
+            "Alfa Romeo Ferrari": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 9,
+                "championship_place": "none",
+                "Valtteri_Bottas_position": 15,
+                "Valtteri_Bottas_position_sprint": 20,
+                "Valtteri_Bottas_points": 0,
+                "Valtteri_Bottas_points_accumulated": 5,
+                "Valtteri_Bottas_number": 77,
+                "Zhou_Guanyu_position": 12,
+                "Zhou_Guanyu_position_sprint": 19,
+                "Zhou_Guanyu_points": 0,
+                "Zhou_Guanyu_points_accumulated": 4,
+                "Zhou_Guanyu_number": 24
+            },
+            "Alpine Renault": 
+            {
+                "pts_race": 3,
+                "pts_accumulated": 47,
+                "championship_place": "none",
+                "Esteban_Ocon_position": 14,
+                "Esteban_Ocon_position_sprint": 7,
+                "Esteban_Ocon_points": 2,
+                "Esteban_Ocon_points_accumulated": 31,
+                "Esteban_Ocon_number": 31,
+                "Pierre_Gasly_position": 10,
+                "Pierre_Gasly_position_sprint": 15,
+                "Pierre_Gasly_points": 1,
+                "Pierre_Gasly_points_accumulated": 16,
+                "Pierre_Gasly_number": 10
+            },
+            "Williams Mercedes": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 7,
+                "championship_place": "none",
+                "Alexander_Albon_position": 11,
+                "Alexander_Albon_position_sprint": 13,
+                "Alexander_Albon_points": 0,
+                "Alexander_Albon_points_accumulated": 7,
+                "Alexander_Albon_number": 23,
+                "Logan_Sargeant_position": 13,
+                "Logan_Sargeant_position_sprint": 18,
+                "Logan_Sargeant_points": 0,
+                "Logan_Sargeant_points_accumulated": 0,
+                "Logan_Sargeant_number": 2
+            },
+            "AlphaTauri Honda RBPT": 
+            {
+                "pts_race": 0,
+                "pts_accumulated": 2,
+                "championship_place": "none",
+                "Yuki_Tsunoda_position": 19,
+                "Yuki_Tsunoda_position_sprint": 16,
+                "Yuki_Tsunoda_points": 0,
+                "Yuki_Tsunoda_points_accumulated": 2,
+                "Yuki_Tsunoda_number": 22,
+                "Nyck_de_Vries_position": 17,
+                "Nyck_de_Vries_position_sprint": 17,
+                "Nyck_de_Vries_points": 0,
+                "Nyck_de_Vries_points_accumulated": 0,
+                "Nyck_de_Vries_number": 21
+            },
+            "Haas Ferrari":
+            {
+                "pts_race": 3,
+                "pts_accumulated": 11,
+                "championship_place": "none",
+                "Kevin_Magnussen_position": 18,
+                "Kevin_Magnussen_position_sprint": 14,
+                "Kevin_Magnussen_points": 0,
+                "Kevin_Magnussen_points_accumulated": 2,
+                "Kevin_Magnussen_number": 20,
+                "Nico_Hulkenberg_position": "DNF",
+                "Nico_Hulkenberg_position_sprint": 6,
+                "Nico_Hulkenberg_points": 3,
+                "Nico_Hulkenberg_points_accumulated": 9,
+                "Nico_Hulkenberg_number": 27
+            },
+            "McLaren Mercedes":
+            {
+                "pts_race": 12,
+                "pts_accumulated": 29,
+                "championship_place": "none",
+                "Lando_Norris_position": 4,
+                "Lando_Norris_position_sprint": 9,
+                "Lando_Norris_points": 12,
+                "Lando_Norris_points_accumulated": 24,
+                "Lando_Norris_number": 4,
+                "Oscar_Piastri_position": 16,
+                "Oscar_Piastri_position_sprint": 11,
+                "Oscar_Piastri_points": 0,
+                "Oscar_Piastri_points_accumulated": 5,
+                "Oscar_Piastri_number": 81
+            }
+        }
+    }
+]
